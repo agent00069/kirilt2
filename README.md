@@ -15,13 +15,12 @@
 
 ## 📌 About Me
 - 🎓 15-year-old Computer Science student from Israel  
-- 🤖 Building **Discord bots**, **Roblox games**, and custom automation tools  
-- 🌐 Developing **websites** and **full-stack web applications**  
-- 🎮 Creating **indie games**, **scripts**, and **interactive projects**  
-- 📚 Currently learning **JavaScript, React & Backend basics**  
-- 🐍 Using **Python** for bots, automation & data analysis  
-- ⚡ Exploring **Lua (Roblox scripting)**, **web dev**, and **cybersecurity**  
-- 🚀 Passionate about **open-source projects**, **programming challenges** & **creative coding**  
+- 🤖 I build: **Discord bots**, **Roblox experiences**, **websites**, **APIs**, and **automation scripts**  
+- 🧰 Building blocks: **JavaScript**, **Python**, **Lua (LuaU)**, **React**, **HTML/CSS**, **Node.js (Express basics)**, **REST/JSON**  
+- 🕹️ Roblox: **Roblox Studio + LuaU** for gameplay systems and UI scripting  
+- 🔗 Bots: **discord.py** / **discord.js** with slash commands and simple utilities  
+- 📚 Currently learning **JavaScript (in depth)**, **React**, and **backend fundamentals**  
+- ⚡ Exploring **web security basics**, **creative coding**, and **open-source experiments**  
 - 🌍 Portfolio: [kiril.com](https://portfolio-websitev2.onrender.com/)
 
 ---
